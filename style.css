@@ -1,0 +1,19 @@
+
+/* Here goes my style page */
+body {
+    background-color: rgb(96, 218, 211);
+  }
+  
+  h1 {
+    color: #b94242;
+    margin-left: 20px;
+  }
+
+  h2 {
+      color: hsl(5, 86%, 11%)
+  }
+
+  h3{
+      color: red;
+  }
+
