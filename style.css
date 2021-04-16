@@ -5,6 +5,9 @@ body {
   }
   
   h1 {
+    height: 1cm;
+    width: 200mm;
+    font-size: .5in;
     color: #b94242;
     margin-left: 20px;
   }
@@ -15,5 +18,26 @@ body {
 
   h3{
       color: red;
+  }
+
+  .entrie{
+      text-decoration: wavy;
+      text-align: justify;
+      font-size: 1em;
+      width: 200vw;
+      height: 11lh;
+      margin-top: short;
+      margin-bottom: long;
+      margin-left: auto;
+      padding-top: short;
+      padding-bottom: short;
+      border-style: dashed;
+      border-color: chartreuse;
+      border-width: 2mm;
+      border-radius: 2mm;
+  }
+
+  #newest {
+      background: rgb(250, 250, 250);
   }
 
